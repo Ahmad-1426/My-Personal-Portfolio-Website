@@ -12,7 +12,8 @@ It is designed to represent me online in a professional way. The site includes:
 It's an ideal project for learning basic front-end development and starting a digital presence.
 
 # 🖼️Screenshot :
-![Uploading image.png…]()
+![صورة الموقع](https://github.com/user-attachments/assets/b274cf38-f127-4739-b389-8d851cd5f687)
+
 
 
 # 🛠️ Tools Used
